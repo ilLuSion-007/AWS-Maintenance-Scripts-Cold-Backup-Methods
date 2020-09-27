@@ -6,7 +6,7 @@ import sys
 
 instance_node = {
         'prefix': 'instance-name-for-ami',
-        'InstanceID': 'instance-id,
+        'InstanceID': 'instance-id',
         'Region': 'instance-region',
         'delBefore': 7
         }
